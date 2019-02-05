@@ -5,7 +5,7 @@ import java.awt.*;
 Capture video;
 OpenCV opencv;
 
-int hitbox = 50;
+int hitbox = 25;
 
 String accum = "";
 int prevx = 0, prevy = 0;
